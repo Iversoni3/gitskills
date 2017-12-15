@@ -1,1 +1,3 @@
 git log is a recommand
+
+you can use the command to see your commit history
